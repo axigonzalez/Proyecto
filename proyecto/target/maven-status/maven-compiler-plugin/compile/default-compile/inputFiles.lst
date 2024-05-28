@@ -1,0 +1,15 @@
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/controller/LoginRequest.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/token/BcryptPasswordEncryption.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/controller/UserControllerEntity.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/token/JwtTokenProvider.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/config/EncryptionConfig.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/repository/SqlAuthRepository.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/domain/ports/PasswordEncryption.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/domain/ports/AuthRepository.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/domain/ports/TokenGenerator.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/Application.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/controller/AuthController.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/domain/User.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/repository/UserEntity.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/applicacion/AuthService.java
+/Users/axi/Documents/velutina/proyecto/src/main/java/com/auth/infrastructure/repository/JpaAuthRepository.java
