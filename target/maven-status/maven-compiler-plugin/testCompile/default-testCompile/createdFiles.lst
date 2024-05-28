@@ -1,0 +1,5 @@
+com/auth/infrastructure/token/JwtTokenProviderTest.class
+com/auth/infrastructure/controller/AuthControllerTest.class
+com/auth/infrastructure/repository/SqlAuthRepositoryTest.class
+com/auth/infrastructure/token/BcryptPasswordEncryptionTest.class
+com/auth/applicacion/AuthServiceTest.class
